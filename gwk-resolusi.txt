@@ -1,0 +1,5 @@
+GWK-RESOLUSI
+- Membuat Utility sederhana
+- konsisten update seminggu 1 kali
+- kolaborasi antar tim expert
+- first record
