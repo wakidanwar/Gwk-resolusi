@@ -3,3 +3,4 @@ GWK-RESOLUSI
 - konsisten update seminggu 1 kali
 - kolaborasi antar tim expert
 - first record
+- menambahkan admin panel stt-pomosda.sch.id
